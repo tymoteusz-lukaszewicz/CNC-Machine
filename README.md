@@ -61,6 +61,7 @@ As this project has no executable code yet, visual documentation is crucial to s
 *Figure 1: Conceptual overview of the X-axis linear guide system, designed in Onshape.*
 
 **2. Custom Carriage Detail (CAD)**
+
 ![Custom Carriage Detail](photos/carriage.png)
 
 *Figure 2: Close-up view of the custom 3D-printed carriage design, highlighting bearing placement.*
@@ -72,11 +73,12 @@ As this project has no executable code yet, visual documentation is crucial to s
 *Figure 3: CAD rendering showing the integration of the NEMA 17 motor mount and GT2 belt system.*
 
 **4. Assembled X-axis Linear Guides**
+
 ![Assembled X-axis Linear Guides](photos/both_rails.jpg)
 *Figure 4: Photograph of one completed X-axis linear guides, featuring the steel rod and custom carriage.*
 
 **5. Carriage Close-up (Physical)**
-![Carriage Close-up](photos/carriage_or_a_rail.jpg)
+![Carriage Close-up](photos/carriage_on_a_rail.jpg)
 *Figure 5: Detailed photo of the physical custom carriage, showing the 5x16x5mm bearings in place.*
 
 ## Skills Demonstrated
