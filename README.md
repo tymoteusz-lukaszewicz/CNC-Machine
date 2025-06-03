@@ -32,7 +32,7 @@ Since this is a hardware project, the focus is on the engineering process, desig
         * Detailed models of parts such as motor mounts, gantry plates, custom carriage components, and roller systems.
         * **Although full assembly models were challenging to implement in Onshape, careful attention was paid to individual part clearances and fit during design to ensure mechanical compatibility.**
     * Emphasis on parametric design for flexibility and easy modifications.
-    * **Explore the Onshape project:** [https://cad.onshape.com/documents/ce3126510393088999471095/w/0db2248d6824e60ffc8700c2/e/9ebff592ddd36325d4f23617?renderMode=0&uiState=683f31c622b1037ac0a3dcb0] (Highly recommended: This link allows direct interaction with the 3D models.)
+    * **Explore the Onshape project:** https://cad.onshape.com/documents/ce3126510393088999471095/w/0db2248d6824e60ffc8700c2/e/9ebff592ddd36325d4f23617?renderMode=0&uiState=683f31c622b1037ac0a3dcb0 (Highly recommended: This link allows direct interaction with the 3D models.)
 * **3D Printing & Prototyping:**
     * Extensive use of 3D printing (on **Bambu Lab A1 Mini** using **Bambu Studio** slicer) for prototyping custom parts, brackets, and fixtures.
     * **PLA filament** is used for its ease of printing and suitability for prototyping mechanical components.
@@ -69,7 +69,9 @@ As this project has no executable code yet, visual documentation is crucial to s
 ### Photographs of Assembled Components
 
 **3. Motor Mount/Belt System (CAD)**
+
 ![Motor Mount/Belt System](photos/rail_from_motor_side.jpg)
+
 *Figure 3: CAD rendering showing the integration of the NEMA 17 motor mount and GT2 belt system.*
 
 **4. Assembled X-axis Linear Guides**
