@@ -62,12 +62,13 @@ As this project has no executable code yet, visual documentation is crucial to s
 
 **2. Custom Carriage Detail (CAD)**
 ![Custom Carriage Detail](photos/carriage.png)
+
 *Figure 2: Close-up view of the custom 3D-printed carriage design, highlighting bearing placement.*
 
 ### Photographs of Assembled Components
 
 **3. Motor Mount/Belt System (CAD)**
-![Motor Mount/Belt System](photos/rail_from_motor_side.png)
+![Motor Mount/Belt System](photos/rail_from_motor_side.jpg)
 *Figure 3: CAD rendering showing the integration of the NEMA 17 motor mount and GT2 belt system.*
 
 **4. Assembled X-axis Linear Guides**
@@ -75,7 +76,7 @@ As this project has no executable code yet, visual documentation is crucial to s
 *Figure 4: Photograph of one completed X-axis linear guides, featuring the steel rod and custom carriage.*
 
 **5. Carriage Close-up (Physical)**
-![Carriage Close-up](photos/carriage_on_a_rail.jpg)
+![Carriage Close-up](photos/carriage_or_a_rail.jpg)
 *Figure 5: Detailed photo of the physical custom carriage, showing the 5x16x5mm bearings in place.*
 
 ## Skills Demonstrated
